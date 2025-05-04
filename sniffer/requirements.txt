@@ -1,0 +1,9 @@
+psutil
+scapy
+flask
+flask-socketio
+kafka-python
+numpy
+tensorflow
+scikit-learn
+psycopg2
