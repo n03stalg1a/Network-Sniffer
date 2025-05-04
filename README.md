@@ -38,7 +38,7 @@ network-sniffer/
 ### 1. Clone the Repository
 If you haven't already, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/network-sniffer.git
+git clone https://github.com/n03stalg1a/network-sniffer.git
 cd network-sniffer
 ```
 
