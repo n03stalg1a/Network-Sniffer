@@ -2,7 +2,7 @@
 # Network Sniffer with Real-Time Alerts and Machine Learning
 
 ## Overview
-This project is a network sniffer application built with Python, Flask, and Kafka. It captures network traffic, analyzes it using machine learning models, and sends real-time alerts when malicious activity is detected. The sniffer is containerized using Docker, and a Flask web server is used to provide a frontend interface for monitoring.
+This project is a network sniffer application built with Python, Flask, and Kafka. It captures network traffic, analyzes it using machine learning models, and sends real-time alerts when malicious activity is detected. The sniffer is containerized using Docker, and a Flask web server is used to provide a frontend interface for monitoring. This project is fully open source as well for as I don't like to believe that something like this should be hidden behind an invisible wall.
 
 ## Features
 - **Network Traffic Capture**: Captures packets from network interfaces.
